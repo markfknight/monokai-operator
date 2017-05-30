@@ -1,0 +1,22 @@
+{
+    "name": "monokai-operator-theme",
+    "displayName": "Monokai Operator",
+    "description": "Monokai Operator Theme",
+    "version": "0.0.1",
+    "publisher": "markfknight",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Operator-color-theme.json"
+            }
+        ]
+    }
+}

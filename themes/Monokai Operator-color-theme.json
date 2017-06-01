@@ -92,6 +92,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#75715E"
 			}
 		},
@@ -138,6 +139,13 @@
 			}
 		},
 		{
+			"name": "Variable Language this",
+			"scope": "variable.language",
+			"settings": {
+				"fontStyle": "italics"
+			}
+		},
+		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
@@ -145,10 +153,16 @@
 			}
 		},
 		{
+			"name": "Keyword Controls",
+			"scope": "keyword.control",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#F92672"
 			}
 		},
@@ -161,10 +175,17 @@
 			}
 		},
 		{
+			"name": "Storage type",
+			"scope": "storage.modifier",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Class name",
 			"scope": "entity.name.type, entity.name.class",
 			"settings": {
-				"fontStyle": "underline",
+				// "fontStyle": "underline",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -172,7 +193,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
+				// "fontStyle": "underline",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -188,7 +209,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#FD971F"
 			}
 		},

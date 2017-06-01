@@ -2,7 +2,7 @@
     "name": "monokai-operator-theme",
     "displayName": "Monokai Operator",
     "description": "Monokai Operator Theme",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "markfknight",
     "engines": {
         "vscode": "^1.12.0"

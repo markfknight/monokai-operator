@@ -48,7 +48,7 @@
 		"activityBar.background": "#272822",
 		"activityBar.foreground": "#f8f8f2",
 		"activityBar.dropBackground": "#414339",
-		"activityBarBadge.background": "#75715e",
+		"activityBarBadge.background": "#F92672",
 		"activityBarBadge.foreground": "#f8f8f2",
 		"sideBar.background": "#1e1f1c",
 		"sideBarSectionHeader.background": "#272822",
@@ -139,10 +139,18 @@
 			}
 		},
 		{
-			"name": "Variable Language this",
+			"name": "Variable Language (this)",
 			"scope": "variable.language",
 			"settings": {
-				"fontStyle": "italics"
+				"fontStyle": "italic",
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#FD971F"
 			}
 		},
 		{
@@ -193,7 +201,6 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				// "fontStyle": "underline",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -206,18 +213,9 @@
 			}
 		},
 		{
-			"name": "Function argument",
-			"scope": "variable.parameter",
-			"settings": {
-				// "fontStyle": "italic",
-				"foreground": "#FD971F"
-			}
-		},
-		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#F92672"
 			}
 		},
@@ -225,7 +223,7 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#A6E22E"
 			}
 		},

@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 -
 
+## [0.2.0] - 2017-06-02
+## Added
+- Mono Theme for Mono only code style
+
 ## [0.1.0] - 2017-06-01
 ### Added
 - HTML formatting @markfknight

@@ -16,6 +16,11 @@
                 "label": "Monokai Operator",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Operator-color-theme.json"
+            },
+            {
+                "label": "Monokai Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Operator Mono-color-theme.json"
             }
         ]
     }

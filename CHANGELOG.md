@@ -4,18 +4,22 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
--
+
+## [0.3.0] - 2017-06-06
+### Changed
+- Updated README @markfknght
+- Updated package.json for market place @markfknight
 
 ## [0.2.0] - 2017-06-02
 ## Added
-- Mono Theme for Mono only code style
+- Mono Theme for Mono only code style @markfknight
 
 ## [0.1.0] - 2017-06-01
 ### Added
 - HTML formatting @markfknight
 - Self formatting for TS/JS @markfknight
 
-## Changed
+### Changed
 - Base TS/JS formatting @markfknight
 - activityBarBadge.background colour to monokai red @markfknight
 

@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "monokai-operator-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+### Monokai Operator Theme
+Monokai VS Code Themes designed for use with the Operator Mono font or other fonts with monospaced cursive italics.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Once the theme is installed, there are currently two flavours:
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* Monokai Operator
+    * Italicised code keywords, attitbutes and comments
+* MonoKai Operator Mono
+    * Non-italic code keywords with italicised attibutes and comments
 
-**Enjoy!**
+Best used with a cursive italic font such as the Operator Mono font. Install the font then add the following to your user settings use the font (replace font name as appropriate).
+
+```
+    "editor.fontFamily": "Operator Mono",
+```

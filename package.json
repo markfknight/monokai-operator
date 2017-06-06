@@ -1,9 +1,23 @@
 {
     "name": "monokai-operator-theme",
     "displayName": "Monokai Operator",
-    "description": "Monokai Operator Theme",
-    "version": "0.1.0",
+    "description": "Monokai Operator Themes for VS code",
+    "version": "0.3.0",
     "publisher": "markfknight",
+    "icon": "",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+        "url": "https://github.com/markfknight/monokai-operator/issues"
+    },
+    "homepage": "https://github.com/markfknight/monokai-operator/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markfknight/monokai-operator.git"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },

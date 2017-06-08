@@ -4,6 +4,8 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+### Added
+- Base icon for manifest @markfknight
 
 ## [0.3.0] - 2017-06-06
 ### Changed

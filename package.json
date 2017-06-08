@@ -4,7 +4,7 @@
     "description": "Monokai Operator Themes for VS code",
     "version": "0.3.0",
     "publisher": "markfknight",
-    "icon": "",
+    "icon": "images/icon.svg",
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"

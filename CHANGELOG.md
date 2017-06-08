@@ -4,7 +4,8 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-
+### Changed
+- Optimisted Icon @markfknight
 
 ## [0.4.0] - 2017-06-08
 ### Added

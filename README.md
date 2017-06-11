@@ -1,10 +1,12 @@
 ### Monokai Operator Theme
 Monokai VS Code Themes designed for use with the Operator Mono font or other fonts with monospaced cursive italics.
 
-Once the theme is installed, there are currently two flavours:
+Once the theme is installed, there are three flavours:
 
 * Monokai Operator
     * Italicised code keywords, attitbutes and comments
+* Monokai Operator Code
+    * Default VS Code Monokai theme with italicised attitbutes and comments
 * MonoKai Operator Mono
     * Non-italic code keywords with italicised attibutes and comments
 

@@ -1,7 +1,8 @@
 {
-	"name": "Monokai Operator Mono",
+	"name": "Monokai Operator Code",
 	"colors": {
 		"focusBorder": "#75715e",
+		"selection.background": "#ccccc7",
 		"widget.shadow": "#1e1f1c",
 		"input.background": "#414339",
 		"inputOption.activeBorder": "#75715e",
@@ -17,26 +18,29 @@
 		"list.inactiveSelectionBackground": "#414339",
 		"list.hoverBackground": "#272822",
 		"list.dropBackground": "#414339",
-		"list.highlightForeground": "#75715e",
+		"list.highlightForeground": "#f8f8f2",
 		"pickerGroup.foreground": "#75715e",
 		"button.background": "#75715e",
+		"badge.background": "#75715e",
+		"badge.foreground": "#f8f8f2",
+		"progressBar.background": "#75715e",
 		"editor.background": "#272822",
 		"editor.foreground": "#f8f8f2",
-		"editor.selectionBackground": "#49483e",
 		"editorWidget.background": "#1e1f1c",
+		"editor.selectionBackground": "#49483e",
+		"editorHoverWidget.background": "#414339",
+		"editorHoverWidget.border": "#75715e",
+		"diffEditor.insertedTextBackground": "#66852880",
+		"diffEditor.removedTextBackground": "#90274a80",
 		"editor.lineHighlightBackground": "#3e3d32",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
 		"editorLineNumber.foreground": "#90908a",
-		"editorHoverWidget.background": "#414339",
-		"editorHoverWidget.border": "#75715e",
-		"diffEditor.insertedTextBackground": "#66852880",
-		"diffEditor.removedTextBackground": "#90274a80",
-		"editorGroupHeader.tabsBackground": "#1e1f1c",
 		"tab.inactiveBackground": "#414339",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveForeground": "#ccccc7",
+		"editorGroupHeader.tabsBackground": "#1e1f1c",
 		"editorGroup.border": "#414339",
 		"editorGroup.dropBackground": "#41433980",
 		"panel.border": "#414339",
@@ -65,12 +69,12 @@
 		"debugToolBar.background": "#1e1f1c",
 		"statusBar.debuggingBackground": "#75715e",
 		"terminal.ansiBlack": "#333333",
-		"terminal.ansiRed": "#f92672bf",
-		"terminal.ansiGreen": "#a6e22ebf",
-		"terminal.ansiYellow": "#e2e22ebf",
-		"terminal.ansiBlue": "#819affbf",
-		"terminal.ansiMagenta": "#ae81ffbf",
-		"terminal.ansiCyan": "#66d9efbf",
+		"terminal.ansiRed": "#c4265e",
+		"terminal.ansiGreen": "#86b42b",
+		"terminal.ansiYellow": "#b3b42b",
+		"terminal.ansiBlue": "#6a7ec8",
+		"terminal.ansiMagenta": "#8c6bc8",
+		"terminal.ansiCyan": "#56adbc",
 		"terminal.ansiWhite": "#e3e3dd",
 		"terminal.ansiBrightBlack": "#666666",
 		"terminal.ansiBrightRed": "#f92672",
@@ -139,13 +143,6 @@
 			}
 		},
 		{
-			"name": "Function argument",
-			"scope": "variable.parameter",
-			"settings": {
-				"foreground": "#FD971F"
-			}
-		},
-		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
@@ -153,16 +150,10 @@
 			}
 		},
 		{
-			"name": "Keyword Controls",
-			"scope": "keyword.control",
-			"settings": {
-				// "fontStyle": "italic"
-			}
-		},
-		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#F92672"
 			}
 		},
@@ -170,22 +161,15 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				// "fontStyle": "italic",
+				"fontStyle": "italic",
 				"foreground": "#66D9EF"
-			}
-		},
-		{
-			"name": "Storage type",
-			"scope": "storage.modifier",
-			"settings": {
-				// "fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Class name",
 			"scope": "entity.name.type, entity.name.class",
 			"settings": {
-				// "fontStyle": "underline",
+				"fontStyle": "underline",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -193,6 +177,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
+				"fontStyle": "italic underline",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -205,9 +190,18 @@
 			}
 		},
 		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#FD971F"
+			}
+		},
+		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#F92672"
 			}
 		},
@@ -239,7 +233,7 @@
 			"name": "Library class/type",
 			"scope": "support.type, support.class",
 			"settings": {
-				// "fontStyle": "italic",
+				"fontStyle": "italic",
 				"foreground": "#66D9EF"
 			}
 		},

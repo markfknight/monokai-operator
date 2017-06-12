@@ -4,13 +4,13 @@ Monokai VS Code Themes designed for use with the Operator Mono font or other fon
 Once the theme is installed, there are three flavours:
 
 * Monokai Operator
-    * Italicised code keywords, attitbutes and comments
+    * Italicised code keywords, attributes and comments
 * Monokai Operator Code
-    * Default VS Code Monokai theme with italicised attitbutes and comments
-* MonoKai Operator Mono
-    * Non-italic code keywords with italicised attibutes and comments
+    * Default VS Code Monokai theme with italicised attributes and comments
+* Monokai Operator Mono
+    * Non-italic code keywords with italicised attributes and comments
 
-Best used with a cursive italic font such as the Operator Mono font. Install the font then add the following to your user settings use the font (replace font name as appropriate).
+Best used with a cursive italic font such as the [Operator Mono](https://www.typography.com/blog/introducing-operator) font. Install the font then add the following to your user settings to set the font (replace font name as appropriate).
 
 ```
     "editor.fontFamily": "Operator Mono",

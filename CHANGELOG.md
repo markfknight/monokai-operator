@@ -4,6 +4,8 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+### Changed
+- Corrected formatting in the change log @markfknight
 
 ## [0.5.1] 2017-06-12
 ### Changed
@@ -12,6 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.5.0] 2017-06-11
 ### Added
 - Monokai Operator Code theme @markfknight
+
 ### Changed
 - Optimisted Icon @markfknight
 
@@ -25,7 +28,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated package.json for market place @markfknight
 
 ## [0.2.0] - 2017-06-02
-## Added
+### Added
 - Mono Theme for Mono only code style @markfknight
 
 ## [0.1.0] - 2017-06-01

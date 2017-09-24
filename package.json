@@ -2,9 +2,9 @@
     "name": "monokai-operator-theme",
     "displayName": "Monokai Operator",
     "description": "Monokai Operator Themes for VS code",
-    "version": "0.5.1",
+    "version": "1.0.0",
     "publisher": "markfknight",
-    "icon": "images/icon.svg",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
@@ -19,7 +19,7 @@
         "url": "https://github.com/markfknight/monokai-operator.git"
     },
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.16.0"
     },
     "categories": [
         "Themes"

@@ -4,8 +4,13 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [1.0.0] 2017-09-24
+### Added
+- tab.activeBorder colour is now set @markfknight
 ### Changed
 - Corrected formatting in the change log @markfknight
+- Updated Icon SVG -> PNG @markfknight
 
 ## [0.5.1] 2017-06-12
 ### Changed

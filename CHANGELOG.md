@@ -5,9 +5,25 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [2.0.0] 2018-05-05
+### Added
+- editorIndentGuide.activeBackground set for Monokai Operator theme @markfknight
+- editorIndentGuide.activeBackground set for Monokai Operator Mono theme @markfknight
+- specified theme type as dark for all themes @markfknight
+
+### Changed
+- min Visual Studio Code version to 1.23.0 @markfknight
+- updated README with screenshots @markfnight
+- updated README with Dank Mono referances @markfknight
+- version number to 2.0.0 @markfknight
+
+### Removed
+- old SVG icon @markfknight
+
 ## [1.0.0] 2017-09-24
 ### Added
 - tab.activeBorder colour is now set @markfknight
+
 ### Changed
 - Corrected formatting in the change log @markfknight
 - Updated Icon SVG -> PNG @markfknight

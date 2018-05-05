@@ -1,5 +1,6 @@
 {
 	"name": "Monokai Operator Code",
+	"type": "dark",
 	"colors": {
 		"focusBorder": "#75715e",
 		"selection.background": "#ccccc7",

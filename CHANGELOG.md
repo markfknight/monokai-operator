@@ -4,14 +4,13 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [3.1.0]
 ### Added
 - breadcrumb highlighting @markfknight
 
 ### Changed
 - editor cursor dark monokai pink
-
-### Removed
-
 
 ## [3.0.0] 2019-05-17
 ### Added

@@ -2,7 +2,7 @@
     "name": "monokai-operator-theme",
     "displayName": "Monokai Operator",
     "description": "Monokai Operator Themes for VS code",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "publisher": "markfknight",
     "icon": "images/icon.png",
     "galleryBanner": {

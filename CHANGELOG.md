@@ -5,6 +5,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [3.0.0] 2019-05-17
+### Added
+- additional for VSCode themes into theme configs @markfknight
+
+### Changed
+- reset to VSCode base line for default Monokai colours @markfknight
+- updated minimum VSCode version number @markfknight
+- copyright notice to 2019 @markfknight
+
 ## [2.0.0] 2018-05-05
 ### Added
 - editorIndentGuide.activeBackground set for Monokai Operator theme @markfknight

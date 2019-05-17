@@ -4,6 +4,13 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+### Added
+- breadcrumb highlighting @markfknight
+
+### Changed
+
+### Removed
+
 
 ## [3.0.0] 2019-05-17
 ### Added

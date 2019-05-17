@@ -5,7 +5,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [3.1.0]
+## [3.1.1] 2019-05-18
+### Changed
+- corrected change log date
+
+## [3.1.0] 2019-05-18
 ### Added
 - breadcrumb highlighting @markfknight
 

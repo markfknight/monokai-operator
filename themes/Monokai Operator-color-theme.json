@@ -52,7 +52,7 @@
 		//"editorBracketMatch.background": "#0064001a",
 		//"editorBracketMatch.border": "#888888",
 		//"editorCodeLens.foreground": "#999999",
-		"editorCursor.foreground": "#f8f8f0",
+		"editorCursor.foreground": "#c4265e",
 		//"editorError.foreground": "#ea4646",
 		"editorGroup.border": "#34352f",
 		"editorGroup.dropBackground": "#41433980",

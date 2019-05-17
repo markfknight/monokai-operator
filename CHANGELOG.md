@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - breadcrumb highlighting @markfknight
 
 ### Changed
+- editor cursor dark monokai pink
 
 ### Removed
 

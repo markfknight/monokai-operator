@@ -1,0 +1,16 @@
+# Pipeline for Building and Publishing VSCode theme
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: sudo npm i -g vsce
+  displayName: 'Install vsce'
+
+- script: vsce package
+  displayName: 'Package to .vsix'
+
+- script: echo time to publish
+  displayName: 'Publish to market place'

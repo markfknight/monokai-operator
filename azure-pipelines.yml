@@ -12,7 +12,15 @@ steps:
 - script: vsce package
   displayName: 'Package to .vsix'
 
-- script: vsce publish -p $env:VSCE_SECRET
-  displayName: 'Publish to market place'
-  env:
-    VSCE_SECRET: $(vsce_publish)
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    Contents: '*.vsix'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+    CleanTargetFolder: true
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'

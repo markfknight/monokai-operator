@@ -6,9 +6,11 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: |
-    echo Packaging to .vsix
-    vsce package
+- script: sudo npm i -g vsce
+  displayName: 'Install vsce'
 
-    echo All DONE!
-  displayName: 'Build and Publish'
+- script: vsce package
+  displayName: 'Package to .vsix'
+
+- script: echo time to publish
+  displayName: 'Publish to market place'

@@ -5,9 +5,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [3.1.2] 2019-05-18
+### Added
+- automated build azure pipeline @markfknight
+- build status badge @markfknight
+
+### Chagned
+- corrected change log @markfknight
+
 ## [3.1.1] 2019-05-18
 ### Changed
-- corrected change log date
+- corrected change log date @markfknight
 
 ## [3.1.0] 2019-05-18
 ### Added

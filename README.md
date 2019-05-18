@@ -1,4 +1,6 @@
 ### Monokai Operator Theme
+[![Build Status](https://dev.azure.com/markfknight/monokai-operator/_apis/build/status/markfknight.monokai-operator?branchName=master)](https://dev.azure.com/markfknight/monokai-operator/_build/latest?definitionId=1&branchName=master)
+
 Monokai VS Code Themes designed for use with the Operator Mono font or other fonts with monospaced cursive italics.
 
 Once the theme is installed, there are three flavours:

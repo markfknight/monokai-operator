@@ -12,5 +12,7 @@ steps:
 - script: vsce package
   displayName: 'Package to .vsix'
 
-- script: echo time to publish
+- script: vsce publish -p $env:VSCE_SECRET
   displayName: 'Publish to market place'
+  env:
+    VSCE_SECRET: $(vsce_publish)

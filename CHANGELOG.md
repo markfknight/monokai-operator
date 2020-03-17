@@ -4,6 +4,15 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+### Added
+- added indent guides stroke colour @markfknight
+- added new colour settings @markfknight
+
+### Changed
+- updated Monokai Operator to match vscode Monokai deafult @markfknight
+
+### Removed
+- old depreciated settings @markfknight
 
 ## [3.1.2] 2019-05-18
 ### Added

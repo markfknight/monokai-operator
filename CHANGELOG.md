@@ -9,7 +9,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - added new colour settings @markfknight
 
 ### Changed
-- updated Monokai Operator to match vscode Monokai deafult @markfknight
+- updated Monokai Operator to match vscode Monokai default @markfknight
+- updated Monokai Operator Code to match vscode Monokai default @ markfknight
 
 ### Removed
 - old depreciated settings @markfknight

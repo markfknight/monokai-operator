@@ -10,7 +10,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 - updated Monokai Operator to match vscode Monokai default @markfknight
-- updated Monokai Operator Code to match vscode Monokai default @ markfknight
+- updated Monokai Operator Code to match vscode Monokai default @markfknight
+- updated Monokai Operator Mono to match vscode Monokai default @markfknight
+- updated min code version number @markfknight
+- updated package version @markfknight
 
 ### Removed
 - old depreciated settings @markfknight

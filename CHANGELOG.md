@@ -4,6 +4,8 @@ All notable changes to the "monokai-operator-theme" extension will be documented
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [4.0.0] 2020-03-18
 ### Added
 - added indent guides stroke colour @markfknight
 - added new colour settings @markfknight

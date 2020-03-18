@@ -5,6 +5,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [4.0.0] 2020-03-18
+### Added
+- added indent guides stroke colour @markfknight
+- added new colour settings @markfknight
+
+### Changed
+- updated Monokai Operator to match vscode Monokai default @markfknight
+- updated Monokai Operator Code to match vscode Monokai default @markfknight
+- updated Monokai Operator Mono to match vscode Monokai default @markfknight
+- updated min code version number @markfknight
+- updated package version @markfknight
+
+### Removed
+- old depreciated settings @markfknight
+
 ## [3.1.2] 2019-05-18
 ### Added
 - automated build azure pipeline @markfknight

@@ -5,6 +5,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [5.0.0] 2021-06-30
+### Change
+- updated Monokai Operator to match vscode Monokai default @markfknight
+- updated Monokai Operator Code to match vscode Monokai default @markfknight
+- updated Monokai Operator Mono to match vscode Monokai default @markfknight
+- updated package version to 5.0.0 @markfknight
+- updated vscodes min version to 1.57.1 @markfknight
+
+### Removed
+- old depreciated settings @markfknight
+
 ## [4.0.0] 2020-03-18
 ### Added
 - added indent guides stroke colour @markfknight

@@ -5,6 +5,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [5.1.0] 2021-07-01
+### Change
+- set `peekView.border` to `#c4265e` @markfknight
+- set `badge.background` to `#c4265e` @markfknight
+- set `panel.border` to `#c4265e` @markfknight
+- set `panelTitle.activeBorder` to `#f92672` @markfknight
+- set `tab.hoverBorder` to `#c4265e` @markfknight
+- update `launch.json` to new foramt @markfknight
+- update ``package.json` veriosn number to 5.1.0 @markfknight
+
 ## [5.0.0] 2021-06-30
 ### Change
 - updated Monokai Operator to match vscode Monokai default @markfknight
